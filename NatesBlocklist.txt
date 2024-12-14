@@ -1,1 +1,3 @@
 ||instagram.com^$document
+instagram.com
+||instagram.com^
